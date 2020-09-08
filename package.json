@@ -1,0 +1,29 @@
+{
+  "name": "grupp_presentation",
+  "version": "1.0.0",
+  "description": "grupp11_presentation",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx reveal-md presentation/presentation1.md --theme moon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishnamohanparuchuri/grupp_presentation.git"
+  },
+  "keywords": [
+    "git",
+    "tdd",
+    "vue",
+    "trello"
+  ],
+  "author": "krishna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krishnamohanparuchuri/grupp_presentation/issues"
+  },
+  "homepage": "https://github.com/krishnamohanparuchuri/grupp_presentation#readme",
+  "dependencies": {
+    "mermaid": "^8.8.0",
+    "reveal-md": "^4.1.3"
+  }
+}
