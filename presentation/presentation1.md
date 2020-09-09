@@ -4,7 +4,7 @@
 
 ### Unit testing in Vue with JEST
 
-###### Members involved in this project
+###### Members involved in this project <!-- .element: class="fragment" -->
 
 - krishna Mohan paruchuri <!-- .element: class="fragment" -->
 - Surya Chitturi <!-- .element: class="fragment" -->
@@ -88,10 +88,10 @@ Contact us page <!-- .element: class="fragment" -->
 | Daily Scrum Meetings | 36 hrs        |
 | Pair coding          | 24 hrs        |
 | Code reviews         | 8 hrs         |
-| Unit Testing         | 24 hrs        |
+| Unit Testing         | 30 hrs        |
 | Git                  | 24hrs         |
 | Presentation         | 8 hrs         |
-| Total hrs            | 136 hrs       |
+| Total hrs            | 142 hrs       |
 
 <!-- .element: class="fragment" style="font-size: 0.6em !important;" -->
 
@@ -180,6 +180,6 @@ describe("App", () => {
 
 ### Thanks for spending your precious time! <!-- .element: class="fragment" -->
 
-### Have a nice lunch. <!-- .element: class="fragment" -->
+### Have a nice Day. <!-- .element: class="fragment" -->
 
 ---
