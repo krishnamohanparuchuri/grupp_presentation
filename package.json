@@ -4,7 +4,7 @@
   "description": "grupp11_presentation",
   "main": "index.js",
   "scripts": {
-    "start": "npx reveal-md presentation/presentation1.md --theme moon"
+    "start": "npx reveal-md presentation/presentation2.md --theme league"
   },
   "repository": {
     "type": "git",
