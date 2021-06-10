@@ -40,6 +40,10 @@
 
 -http://localhost:8080/login/admin <!--  style="font-size: 0.9 em !important;" -->
 
+###### link to the admin page
+
+-https://dashboard.stripe.com/test/payments <!--  style="font-size: 0.9 em !important;" -->
+
 ---
 
 <!-- .slide: class="complex pink" -->
