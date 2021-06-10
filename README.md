@@ -6,7 +6,7 @@
 npm start
 ```
 
-###open the browser
+### open the browser
 
 ```
 http://localhost:1948/presentation2.md#/
