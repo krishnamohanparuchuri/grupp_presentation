@@ -1,77 +1,130 @@
 <!-- .slide: class="intro" -->
+<!-- .slide: data-transition="convex" data-transition-speed="medium"-->
 
-## Vatten Info
+<h3> About Myself </h3>
 
-###### Members involved in this project
+<p> Krishna Mohan Paruchuri</p>
 
-- Krishna Mohan Paruchuri
-- Patrick Carragher
-- Oskar Ljungdahl
+(Front-end developer)
 
----
+### <div> </div>
 
-<!-- .slide: class="complex pink" -->
-
-## Development Tools we used for this project
-
-- git version system
-- Vue Webframe work
-- MongooDB Data Base
-- Stripe payment API
-- Jest for unit testing
+- Age :36
+- Status : Married
+- Kids : Two(dhruvika, nithvik)
+- Origin : Indian
+- Interests : Playing cricket, watching Movies
 
 ---
 
 <!-- .slide: class="complex pink" -->
 
-## Design tools used for this project
+<h3> Education </h3>
 
-- Figma
-- Trello board
-- Lucid charts
-- Scrum methodology
+##### (2019-2021)
+
+    Frontend development with specilization in web security.
+    Jensen education Kista
+
+##### (2006-2008)
+
+    Masters in emebedded sysytems specilization in computer systems.
+    Jönköping university, Jönköping
+
+##### (2001-2005)
+
+    Bachelors in electical and electronics engineering.
+    Anna University, Chennai
+
+---
+
+## work experience
+
+Vatten Info AB (Internship 2020-11-01 : 2021-06-31)
+
+                    Role : Backend developer
+
+Lidl Sverige KB (2017- until now)
+
+             Role: Inbound Logistics Administrator
+
+Lidl Sverige KB (2013- 2017)
+
+         Role: Team leader and planning for outbound logistics
+
+---
+
+### Hands on Experience in programming
+
+<h4> Responsibilities during the project at Vatten info AB </h4>
+
+    - Building the backend API using node and express server
+    - Connecting application to the Mongodb database.
+    - Applying Websecurity protocols like JWT tokens.
+    - Integrating stripe payment API
+    - Connecting the backend application with the
+      front-end frame work.
+
+- http://localhost:8080/ <!--  style="font-size: 0.9 em !important;" -->
 
 ---
 
 <!-- .slide: class="complex pink" -->
 
-## Vue Frame work
+### Technologies familiar with
 
-#### presentation of the project
-
-###### link to the frontend application
-
--http://localhost:8080/ <!--  style="font-size: 0.9 em !important;" -->
-
-###### link to the admin page
-
--http://localhost:8080/login/admin <!--  style="font-size: 0.9 em !important;" -->
-
-###### link to the admin page
-
--https://dashboard.stripe.com/test/payments <!--  style="font-size: 0.9 em !important;" -->
+                * Java script                * Html /CSS
+                * Docker                     * Node
+                * React Js                   * Vue Js
+                * MongoDb                    * SQL
+                * Postgress                  * Stripe
+                * Git                        * Bitbucket
+                * Trello Boards              * UML Diagrams
+                * Unit Testing               * Netlify, Heroku
+                * Microsoft Azure            * C
+                * VHDL                       * Verilog
+                * Jest unit testing          * Agile
 
 ---
 
 <!-- .slide: class="complex pink" -->
 
-## Links for the repo
+### why Salt?
 
-- https://github.com/krishnamohanparuchuri/vatten_info_project
+- Experience in teaching and having good relation with companies
+- Enrich my software skills
+- Get more hands on experience in programming and learning new technologies
+- Job oriented training
+
+---
+
+<!-- .slide: class="complex pink" -->
+
+## Links
+
+- https://github.com/krishnamohanparuchuri
 
 - https://trello.com/b/T0KMC1ot/vatteninfo
 
-- https://drive.google.com/drive/folders/1fpHqOYy7iGVpDEXz3uG9WrH8Eds_RTaj
-- https://lucid.app/lucidchart/2e67b2a0-8ae4-406b-b8ca-2179cb63e815/edit?page=0_0#
+- https://bitbucket.org/dashboard/overview
+
+- https://hub.docker.com/u/krishnamohanparuchuri
 
 ---
 
 <!-- .slide: class="complex pink" -->
 
-## Any questions ? <!-- .element: class="fragment" -->
+### Future plans
 
-### Thanks for spending your precious time! <!-- .element: class="fragment" -->
+- Full stack developer
+- Devops engineer
 
-### Have a nice Day. <!-- .element: class="fragment" -->
+---
+
+<!-- .slide: class="complex pink" -->
+
+#### Thanks for spending your precious time! <!-- .element: class="fragment" -->
+
+#### Have a nice Day. <!-- .element: class="fragment" -->
 
 ---

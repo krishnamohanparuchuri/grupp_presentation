@@ -4,7 +4,7 @@
   "description": "grupp11_presentation",
   "main": "index.js",
   "scripts": {
-    "start": "npx reveal-md presentation/presentation2.md --theme league"
+    "start": "npx reveal-md presentation/pessrsonal.md --theme league"
   },
   "repository": {
     "type": "git",
@@ -24,6 +24,6 @@
   "homepage": "https://github.com/krishnamohanparuchuri/grupp_presentation#readme",
   "dependencies": {
     "mermaid": "^8.8.0",
-    "reveal-md": "^4.1.3"
+    "reveal-md": "^5.2.0"
   }
 }
